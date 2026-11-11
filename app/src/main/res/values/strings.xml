@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CRUD Mahasiswa</string>
+    <string name="first_label">Daftar Mahasiswa</string>
+    <string name="second_label">Form Mahasiswa</string>
+</resources>
